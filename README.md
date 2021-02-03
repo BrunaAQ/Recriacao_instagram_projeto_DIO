@@ -1,1 +1,1 @@
-# Recriacao_instagram_projeto_DIO
+###💻 Proposta de recriação da interface da mídia social Instagram 💻

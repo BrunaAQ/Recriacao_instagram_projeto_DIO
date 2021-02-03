@@ -5,5 +5,5 @@
 
 #### Tecnologias envolvidas:
 * 💡 HTML (estrutura base);
-* 💡 CSS (estilização)
+* 🎨 CSS (estilização)
  

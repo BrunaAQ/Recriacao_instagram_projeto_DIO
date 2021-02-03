@@ -5,6 +5,6 @@
 * Tudo isso através da plataforma de ensino <i> Digital Innovation One - DIO</i>
 
 #### Tecnologias envolvidas:
-* 💡 HTML (estrutura base);
-* 🎨 CSS (estilização)
+* 💡 HTML5 (estrutura base);
+* 🎨 CSS3 (estilização)
  
